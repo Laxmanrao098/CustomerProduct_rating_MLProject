@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/laxma/OneDrive/Desktop/My_project_ML/mlruns/0/17afbfe1f98242dfb1a28d756d2f1f29/artifacts
+end_time: 1726921375658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17afbfe1f98242dfb1a28d756d2f1f29
+run_name: sneaky-foal-766
+run_uuid: 17afbfe1f98242dfb1a28d756d2f1f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726921375541
+status: 3
+tags: []
+user_id: laxma
